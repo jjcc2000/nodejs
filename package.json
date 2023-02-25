@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "html-colors": "^0.0.6"
+  }
+}
